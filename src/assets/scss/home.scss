@@ -1,0 +1,7 @@
+@import "~bootstrap/scss/bootstrap";
+@import "_custom";
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+$primary-color: white;
+$bg: black;
+
+h2 {background-color: $bg;}
